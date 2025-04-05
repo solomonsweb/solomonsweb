@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a portfolio](https://github.com/solomonsweb/newportfolio)
 
-- 👨‍💻 All of my projects are available at [at solomon.is-cool.dev](at solomon.is-cool.dev)
+- 👨‍💻 All of my projects are available at [at solomon.is-cool.dev](solomon.is-cool.dev)
 
 - 💬 Ask me about **anything!**
 
